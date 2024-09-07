@@ -46,5 +46,7 @@ const bts03 = () => {
 bts03();
 //例(簡単に)----------------------------
 const bts04 = () => { console.log('アロー関数 簡素化↓↓↓↓'); console.log('私の推しは'); console.log('ジョングクです'); }
+bts04()
 //例(もっと簡単に)----------------------------
 const bts05 = () => console.log('アロー関数 簡素化↓↓↓↓'); console.log('私の推しは'); console.log('ジョングクです');
+bts05()
